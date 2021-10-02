@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=#E4405F&logoColor=로고색상"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=#E4405F"/></a>
 
 <!---
 l220x/l220x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
