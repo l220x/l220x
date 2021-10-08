@@ -6,7 +6,7 @@
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-black?style=flat&logo=adobePhotoshop&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-black?style=flat&logo=adobeillustrator&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Premiere pro-black?style=flat&logo=AdobePremierePro&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-black?style=flat&logo=adobeaftereffects&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-black?style=flat&logo=adobexd&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rhino-black?style=flat&logo=Rhinoceros&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Autodesk Fusion360-black?style=flat&logo=Autodesk&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Autodesk Inventor-black?style=flat&logo=Autodesk&logoColor=#E4405F"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ableton Live 10-black?style=flat&logo=abletonlive&logoColor=#E4405F"/></a>  
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koila)](https://solved.ac/koila/)
 
 - 🎖웹디자인기능사 / 한국산업인력공단 / 19.09.
 - 🎖 컴퓨터그래픽스운용기능사 / 한국산업인력공단 / 19.10.
